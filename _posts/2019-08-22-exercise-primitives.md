@@ -15,5 +15,5 @@ Problem
 Solution
 ======
 
-Images
+Images
 ------
